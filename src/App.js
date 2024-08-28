@@ -6,7 +6,7 @@ import Dashboard from './components/Dashboard';
 function App() {
   return (
     <div>
-      <h1>Form Submission and Admin Dashboard</h1>
+      <h1>Form Submission and Dashboard</h1>
       <Form />
       <Dashboard />
     </div>
